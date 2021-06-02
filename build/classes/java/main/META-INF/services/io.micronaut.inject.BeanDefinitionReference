@@ -1,0 +1,2 @@
+example.micronaut.controller.$DummyControllerDefinitionClass
+example.micronaut.filter.$DummyHttpFilterDefinitionClass

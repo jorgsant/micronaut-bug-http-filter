@@ -1,0 +1,6 @@
+example/micronaut/controller/DummyController.java
+ example.micronaut.controller.DummyController
+example/micronaut/Application.java
+ example.micronaut.Application
+example/micronaut/filter/DummyHttpFilter.java
+ example.micronaut.filter.DummyHttpFilter
